@@ -1,0 +1,53 @@
+Muscle,Origin,deep/superficial,Location,Action
+pectoralis major,Clavicle & sternum,superficial,shoulder,flexes shoulder
+pectoralis minor,Ribs 3-5,deep,shoulder,raises ribs
+deltoid,clavicle & scapula,both,shoulder,adducts shoulder
+teres major,scapula,deep,shoulder,adducts shoulder
+supraspinatus,scapula,deep,shoulder,stabilizes shoulder
+infraspinatus,scapula,both,shoulder,stabilizes shoulder
+subscapularis,scapula,deep,shoulder,rotates humerus
+latissimus dorsi,vertebrae,superficial,shoulder,extends arm
+iliopsoas,ilium,deep,hip,flexes hip
+gluteus maximus,ilium,superficial,hip,extends hip
+biceps femoris,ischium and femur,superficial,hip ,flexes knee
+semimembranosus,ischium,deep,hip,extends hip
+semitendinosus,ischium,superficial,hip ,extends hip
+tensor fasciae latae,ilium,superficial,hip,adducts hip
+sartorius,ilium,superficial,hip,flexes hip
+rectus femoris,ilium,superficial,hip ,extends knee
+adductor longus,pubis,deep,hip,adducts hip
+adductor magnus,ischium & pubis,deep,hip,adducts hip
+gracilis,pubis,superficial,hip,adducts hip
+vastus lateralis,femur,superficial,knee,extends knee
+vastus medialis,femur,superficial,knee ,extends knee
+vastus intermedius,femur,deep,knee ,extends knee
+gastrocnemius,femur,superficial,knee,flexes knee
+tibialis anterior,tibia & fibula,superficial,ankle,flexes ankle
+peroneus longus,fibula,superficial,ankle,everts ankle
+soleus,tibia & fibula,deep,ankle,flexes ankle
+biceps brachii,scapula,superficial,elbow,flexes elbow
+triceps brachii,scapula & humerus,superficial,elbow,extends elbow
+brachialis,humerus,both,elbow,flexes elbow
+brachioradialis,humerus,superficial,elbow,flexes elbow
+extensors,posterior humerus,superficial,wrist,extends wrist
+flexors,anterior humerus,superficial,wrist,flexes wrist
+frontalis,galea aponeurotica,superficial,head,raises eyebrows
+occipitalis,occipital,superficial,head,pulls scalp posterior
+orbicularis oculi,frontal bone,superficial,head,closes eyelids
+orbicularis oris,maxilla & mandible,superficial,head,closes lips
+platysma,fascia of chest,superficial,neck,lowers mandible
+masseter,zygomatic arch,superficial,head,closes jaw
+temporalis,temporal bone,both,head,closes jaw
+buccinator,maxilla & mandible,superficial,head,compresses cheeks
+digastricus,mandible & temporal bone,deep,neck,opens mouth
+sternocleidomastoid,sternum & clavicle,both,neck,flexes neck
+external oblique,ribs 5-12,superficial,anterior trunk,compresses abdomen
+internal oblique,dorsal lumbar fascia,deep,anterior trunk,compresses abdomen
+transversus abdominis,dorsal lumbar fascia,deep,anterior trunk,compresses abdomen
+rectus abdominis,pubic crest,deep,anterior trunk,compresses abdomen
+serratus anterior,ribs 1-8 or 9,superficial,anterior trunk,protracts scapula
+external intercostals,rib above,deep,anterior trunk,elevates rib cage
+internal intercostals,rib below,deep,anterior trunk,depresses rib cage
+rhomboideus,spinous processes C7-T5,deep,posterior trunk,draws scapula medially
+erector spinae,ilium,deep,posterior trunk,extends back
+splenius,ligamentum nuchae,deep,posterior trunk,extends neck
